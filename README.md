@@ -3,6 +3,10 @@ IID & 🍺.io: [https://buymeacoffee.com/apintio](https://buymeacoffee.com/apint
 
 ----------------------------
 
+[`dotnet add package be.elab.iid`](https://www.nuget.org/packages/be.elab.iid)
+
+-------------------
+
 # NuGet IID (Index Integer Date) 
 
 Rust version: [crates.io/crates/iid](https://crates.io/crates/iid)  
