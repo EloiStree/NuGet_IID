@@ -6,7 +6,7 @@ IID & 🍺.io: [https://buymeacoffee.com/apintio](https://buymeacoffee.com/apint
 # NuGet IID (Index Integer Date) 
 
 Rust version: [crates.io/crates/iid](https://crates.io/crates/iid)  
-Python version: [pypi.org/project/iid42/](ttps://pypi.org/project/iid42/)  
+Python version: [pypi.org/project/iid42/](https://pypi.org/project/iid42/)  
 C# version: [nuget.org/packages/be.elab.iid](https://www.nuget.org/packages/be.elab.iid)  
 
 
